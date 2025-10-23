@@ -1,0 +1,9 @@
+flask
+streamlit
+requests
+pypdf
+faiss-cpu
+langchain
+vertexai
+numpy
+cryptography>=3.1
